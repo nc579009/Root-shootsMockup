@@ -1,0 +1,60 @@
+.navbar{
+    display: flex;
+   /*border: solid;*/
+    height: 50px;
+}
+body{
+    background-color: rgb(235,255,229);
+    background: linear-gradient(180deg, rgba(235,255,229,1) 0%, rgba(227,236,232,1) 50%, rgba(232,244,231,1) 100%);
+    text-align: center;
+}
+
+.nav1{
+    /*border: solid black;*/
+    width: 60%;
+    display: flex;
+}
+.customerlogin{
+    width: 40%;
+   /* border: solid grey;*/
+    display: flex;
+}
+.smalllogo{
+    height: 50px;
+    margin-right: 200px;
+    margin-left: 10px;
+}
+.smalllogo :hover{
+    color: black;
+    
+}
+.productls{
+    font-style: lucida console;
+    background-color: rgb(90, 169, 135);
+    border-radius: 10%;
+    
+
+}
+
+.productls:hover{
+    background-color: rgb(13, 90, 56);
+}
+.logo2{
+    height: 70px;
+    margin-left: 70%;
+    
+}
+.login{
+    font-style: lucida console;
+    background-color: rgb(90, 169, 135);
+    border-radius: 10%;
+
+}
+.login:hover{
+    font-style: lucida console;
+    background-color: rgb(13, 90, 56);
+    border-radius: 10%;
+}
+.picture{
+    display: flex;
+}
