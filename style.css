@@ -58,3 +58,6 @@ body{
 .picture{
     display: flex;
 }
+.missionstatement{
+    margin: 100px;
+}
